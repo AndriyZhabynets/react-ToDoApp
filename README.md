@@ -1,2 +1,2 @@
 # React Todo App with API
-- [DEMO LINK](https://andriyzhabynets.github.io/react-ToDoApp/)
+- [Todo App](https://andriyzhabynets.github.io/react-ToDoApp/)
